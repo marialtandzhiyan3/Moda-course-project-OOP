@@ -1,0 +1,4 @@
+1,T-Shirt,19.99,48,Cotton T-Shirt,0
+2,Socks,6.99,46,Colourfull socks,0
+3,Jacket,49.99,48,Leather Jacket,0
+4,Slim Fit Jeans,30,19,Stylish denim jeans,0
